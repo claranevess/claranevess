@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claranevess&label=Profile%20views&color=0e75b6&style=flat" alt="claranevess" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claranevess" alt="claranevess" /></a> </p>
-
 - 🔭 I’m currently working on **Plataformia, a plataform game made with C**
 
 - 🌱 I’m currently learning **Django, C and Tailwind**
@@ -24,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claranevess&show_icons=true&locale=en&layout=compact" alt="claranevess" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claranevess&show_icons=true&locale=en" alt="claranevess" /></p>
+
