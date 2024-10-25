@@ -1,7 +1,5 @@
-<h1 align="center">Hey! I'm Clara</h1>
+<h1 align="center">Hey! I'm Clara 💖</h1>
 <h3 align="center">I'm a Computer Science student and programming enthusiast, building games and solutions with purpose!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=claranevess&label=Profile%20views&color=0e75b6&style=flat" alt="claranevess" /> </p>
 
 - 🔭 I’m currently working on **Plataformia, a plataform game made with C**
 
