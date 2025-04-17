@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Clara 💖</h1>
-<h3 align="center">I'm a Computer Science student and programming enthusiast, building games and solutions with purpose!</h3>
+<h3 align="center">I'm a Computer Science student and programming enthusiast, building solutions with purpose!</h3>
 
 - 🔭 I’m currently working on **Plataformia, a plataform game made with C**
 
