@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Plataformia, a plataform game made with C**
 
-- 🌱 I’m currently learning **Django, C and Tailwind**
+- 🌱 I’m currently learning **Java, SpringBoot and JavaScript**
 
-- 📫 How to reach me **mcsan@gmail.com**
+- 📫 How to reach me **mcsan@cesar.school**
 
 - ⚡ Fun fact **I love listening to Taylor Swift and go on walks!**
 
