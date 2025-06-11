@@ -31,5 +31,5 @@
 | ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=claranevess&theme=dracula) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claranevess&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
----
+
 
