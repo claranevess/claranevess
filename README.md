@@ -19,7 +19,7 @@
 
 <h2 align="left">Skills:</h2>
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,vite,javascript,tailwind)](https://skillicons.dev)
 
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=django,spring,java,python,c)](https://skillicons.dev)
